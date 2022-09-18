@@ -54,7 +54,6 @@ ul {
 
 .title {
    color: red;
-   font-family: "Larsseit";
 }
 .structure ul {
    color: cyan;
@@ -64,7 +63,6 @@ ul {
    color: darkgreen;
 }
 .history {
-   font-family: 'Larsseit';
    color: yellowgreen;
 }
 
@@ -75,15 +73,12 @@ ul {
    color: darkgreen;
 }
 .history p {
-   font-weight: 700;
    color: rgb(175, 75, 113);
 }
 .chiken-people .chiken-text {
    color: coral;
 }
 .chiken-people p {
-   font-family: "Roboto";
-   font-weight: 700;
    color: lawngreen;
 }
 .chiken-people span {
